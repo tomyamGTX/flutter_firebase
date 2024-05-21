@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "525737552936",
+    "project_id": "tutorial-flutter-620bb",
+    "storage_bucket": "tutorial-flutter-620bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525737552936:android:71017f95c035bb8c5ed91d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hdvSo5scr_A5Na-yO0PEfLZUCH74Qhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525737552936-ddbej5etv808nohak1tom6pnlb8dlljn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quranirabMigration"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525737552936:android:102ef1442fd9199b5ed91d",
+        "android_client_info": {
+          "package_name": "com.example.quranirab_migration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hdvSo5scr_A5Na-yO0PEfLZUCH74Qhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525737552936-ddbej5etv808nohak1tom6pnlb8dlljn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quranirabMigration"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525737552936:android:eb7f518d1196bf5d5ed91d",
+        "android_client_info": {
+          "package_name": "com.kimi.aqwise_stripe_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hdvSo5scr_A5Na-yO0PEfLZUCH74Qhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525737552936-g6lps9garab1t3gg31m9d6rikh7f1fkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525737552936-ddbej5etv808nohak1tom6pnlb8dlljn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quranirabMigration"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
